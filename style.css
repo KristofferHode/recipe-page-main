@@ -1,2 +1,8 @@
-body{background-color: hsl(330,100%, 98%);}
-#preptime{background-color:hsl(332, 51%, 32%) ;}
+body{background-color: hsl(330,100%, 98%);font}
+h1{color: hsl(332, 51%, 32%);}
+h2{color: hsl(332, 51%, 32%);}
+h4{color: hsl(332, 51%, 32%);}
+
+#Nutrition{list-style-type:none;}
+
+p{font-weight: bold;}
