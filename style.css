@@ -3,8 +3,17 @@ h1{color: hsl(332, 51%, 32%);}
 h2{color: hsl(332, 51%, 32%);}
 h4{color: hsl(332, 51%, 32%);}
 
+.young-serif-regular {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {font-weight: bold;}
+
 li{margin: 5px;}
+
 
 #Nutrition{list-style-type:none;}
 
-p {font-weight: bold;}
+#preptime {background-color: rgb(246, 208, 208); border: 5px solid rgb(246, 208, 208);width: fit-content;border-style:outset;}
