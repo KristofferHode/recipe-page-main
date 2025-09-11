@@ -1,36 +1,58 @@
-body{background-color: hsl(330,100%, 98%);}
-h1{color: hsl(332, 51%, 32%);
-text-align: center;border-bottom: 4px;
-border-bottom: 4px solid;}
-h2{color: hsl(332, 51%, 32%);
-text-align: center;border-bottom: 2px solid;width: fit-content;}
-h4{color: hsl(332, 51%, 32%);}
-
-#decscription {text-align: center;}
-
-.young-serif-regular {
-  font-family: "Young Serif", serif;
-  font-weight: 400;
-  font-style: normal;
+body{
+  background-color: hsl(330, 96%, 91%);
+  padding-bottom: 20px;
+}
+#bodydiv
+{
+  border: 50px;
+  border-color: rgb(203, 169, 236);border-style: solid;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-p {font-weight: bold;font-family: Youngserif ;}
+h1{
+  color: hsl(332, 51%, 32%);
+  text-align: center;
+  border-bottom: 4px;
+  border-bottom: 4px solid;}
 
-li{margin: 5px;}
+h2{
+  color: hsl(332, 51%, 32%);
+  text-align: center;
+  border-bottom: 2px solid;
+  width: fit-content;}
+
+h4{
+  color: hsl(332, 51%, 32%);}
+
+#decscription{
+  text-align: center;}
+
+li{
+  margin: 5px;}
 
 
 
-#Nutrition{list-style-type:none;}
+#Nutrition{
+  list-style-type:none;}
 
-#preptime {background-color: rgb(246, 208, 208); 
+
+
+#preptime{
+  background-color: rgb(246, 208, 208); 
   border: 5px solid rgb(246, 208, 208);
   width: fit-content;
   border-style:outset;
   display: flex;
-  justify-content: center;
+  justify-items: center;
   flex-direction: column;
 }
-
-  #omelette
-  {display: flex;
-  justify-content: center;}
+#omelette{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  border-radius: 20px;
+  border:transparent;  
+}
