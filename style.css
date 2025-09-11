@@ -1,7 +1,12 @@
 body{background-color: hsl(330,100%, 98%);}
-h1{color: hsl(332, 51%, 32%);}
-h2{color: hsl(332, 51%, 32%);}
+h1{color: hsl(332, 51%, 32%);
+text-align: center;border-bottom: 4px;
+border-bottom: 4px solid;}
+h2{color: hsl(332, 51%, 32%);
+text-align: center;border-bottom: 2px solid;width: fit-content;}
 h4{color: hsl(332, 51%, 32%);}
+
+#decscription {text-align: center;}
 
 .young-serif-regular {
   font-family: "Young Serif", serif;
@@ -14,6 +19,18 @@ p {font-weight: bold;font-family: Youngserif ;}
 li{margin: 5px;}
 
 
+
 #Nutrition{list-style-type:none;}
 
-#preptime {background-color: rgb(246, 208, 208); border: 5px solid rgb(246, 208, 208);width: fit-content;border-style:outset;}
+#preptime {background-color: rgb(246, 208, 208); 
+  border: 5px solid rgb(246, 208, 208);
+  width: fit-content;
+  border-style:outset;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+  #omelette
+  {display: flex;
+  justify-content: center;}
