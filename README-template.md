@@ -20,9 +20,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Overview
 
+This project aims to recreate the Frontend mentor recipe page solution. overall i enden up styling this project differently then the origin page as i am not that experienced in coding as of today. 
+
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot of project](/assets/screenshot/webpagecomp.jpeg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
